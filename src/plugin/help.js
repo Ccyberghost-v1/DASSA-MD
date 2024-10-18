@@ -90,7 +90,7 @@ let mode = ethix.public ? 'public' : 'private';
           interactiveMessage: proto.Message.InteractiveMessage.create({
             body: proto.Message.InteractiveMessage.Body.create({
               text: `╭─────────────━┈⊷
-│🤖 ʙᴏᴛ ɴᴀᴍᴇ: *GHOST-MD*
+│🤖 ʙᴏᴛ ɴᴀᴍᴇ: *DASSA-MD*
 │📍 ᴠᴇʀꜱɪᴏɴ: 3.0.2
 │👨‍💻 ᴏᴡɴᴇʀ : *ɢʜᴏꜱᴛ*      
 │👤 ɴᴜᴍʙᴇʀ: 94741140620
@@ -207,9 +207,9 @@ let mode = ethix.public ? 'public' : 'private';
         const mode = process.env.MODE;
         const str = `hey ${m.pushName} ${pushwish}
 ╭─────────────━┈⊷
-│🤖 ʙᴏᴛ ɴᴀᴍᴇ: *GHOST-MD*
+│🤖 ʙᴏᴛ ɴᴀᴍᴇ: *DASSA-MD*
 │📍 ᴠᴇʀꜱɪᴏɴ: 3.0.2
-│👨‍💻 ᴏᴡɴᴇʀ : *GHOST*      
+│👨‍💻 ᴏᴡɴᴇʀ : *DASSA*      
 │👤 ɴᴜᴍʙᴇʀ: 94741140620
 │💻 ᴘʟᴀᴛғᴏʀᴍ: *${os.platform()}*
 │🛡 ᴍᴏᴅᴇ: *${mode}*
